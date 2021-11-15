@@ -1,1 +1,4 @@
-python_env
+beam_env
+notes.txt
+config.cfg
+*cache*
